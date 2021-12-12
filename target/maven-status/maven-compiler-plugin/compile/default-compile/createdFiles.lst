@@ -1,0 +1,11 @@
+com\usa\c4reto01\crud\UserCrudRepository.class
+com\usa\c4reto01\model\HairProduct.class
+com\usa\c4reto01\model\User.class
+com\usa\c4reto01\C4reto01Application.class
+com\usa\c4reto01\repository\HairProductRepository.class
+com\usa\c4reto01\service\UserService.class
+com\usa\c4reto01\controller\HairProductController.class
+com\usa\c4reto01\crud\HairProductCrudRepository.class
+com\usa\c4reto01\repository\UserRepository.class
+com\usa\c4reto01\service\HairProductService.class
+com\usa\c4reto01\controller\UserController.class

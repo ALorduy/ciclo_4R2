@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.usa.c4reto01.C4reto01ApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 13.244 s - in com.usa.c4reto01.C4reto01ApplicationTests
