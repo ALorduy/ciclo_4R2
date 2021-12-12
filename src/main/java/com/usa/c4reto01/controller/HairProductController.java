@@ -45,10 +45,7 @@ public class HairProductController {
         return service.save(product);
     }
     
-    /*@GetMapping("/{reference}")
-    public Optional<HairProduct> getByReference(@PathVariable("reference") String reference) {
-        return service.getByReference(reference);
-    }*/
+
     
     @PutMapping("/update")   
     @ResponseStatus(HttpStatus.CREATED)

@@ -18,7 +18,7 @@ public class C4reto01Application implements CommandLineRunner {
 	} 
     @Override
 	    public void run(String... args) throws Exception {
-	        hairProductCrudRepository.deleteAll();
+	        //hairProductCrudRepository.deleteAll();
 	        userCrudRepository.deleteAll();
 	    }
 
